@@ -44,3 +44,13 @@ https://sperg.club/uploads/Y2YsXQhZlVNP8T4I.png
 https://sperg.club/uploads/3X5ddoTSsUrgnImm.png
 https://sperg.club/uploads/hO7NdeIvSoRaJ7HZ.png
 https://sperg.club/uploads/ZGrrTqRGKkqCzJro.png
+
+### Hydra Has No Programming Knowledge
+
+For those of you who aren't familiar with Hydra or his hub, he can't write his own whitelist. He started off using CypherM's whitelist but after it went private,
+he asked me to write him a whitelist. I refused and referred him to my friend DaDude who agreed to write him a whitelist, DaDude wrote him a whitelist and Hydra
+requested that DaDude stored the username of his users in the database, this is scummy as in the event of a data breach, although it's unlikely to happen, hundreds
+of accounts can get banned. Nowhere in his ToS is this mentioned, I'd get a screenshot but I'm not in the server.
+
+Proof of Hydra logging his buyers accounts in the database: https://sperg.club/uploads/ZEINSZvknRxQKanS.png
+Proof of Hydra not caring about his buyer's information: https://cdn.discordapp.com/attachments/521768610029633549/814320810108911666/IMG_20210225_021949.jpg
