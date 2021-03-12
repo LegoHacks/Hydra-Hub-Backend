@@ -9,6 +9,8 @@ https://cdn.discordapp.com/attachments/742356694910107669/819984250543669318/unk
 
 Hydra made people think I scammed him. This is not the case, I was paid AFTER I FINISHED WORKING ON HIS SCRIPT, he told me the script was fine then sent me money via PayPal.
 
+Proof: https://sperg.club/uploads/xDyXFwt0AQ9A1pys.png
+
 ### Scamming ICEE
 
 ICEE was supposed to be paid a $10 Amazon gift card to fix his ship farm. He made it faster and more efficient for him but you still took damage so he didn't pay ICEE,
