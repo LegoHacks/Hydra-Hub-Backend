@@ -3,6 +3,12 @@ Written by DaDude, skidded by Hydra.
 
 ## Disclaimer: This code was 100% written by DaDude, the co-owner of LegoHacks, and has given permission to publish this code.
 
+### Hydra Spreading Misinformation
+
+https://cdn.discordapp.com/attachments/742356694910107669/819984250543669318/unknown.png
+
+Hydra made people think I scammed him. This is not the case, I was paid AFTER I FINISHED WORKING ON HIS SCRIPT, he told me the script was fine then sent me money via PayPal.
+
 ### Scamming ICEE
 
 ICEE was supposed to be paid a $10 Amazon gift card to fix his ship farm. He made it faster and more efficient for him but you still took damage so he didn't pay ICEE,
