@@ -54,3 +54,5 @@ of accounts can get banned. Nowhere in his ToS is this mentioned, I'd get a scre
 
 Proof of Hydra logging his buyers accounts in the database: https://sperg.club/uploads/ZEINSZvknRxQKanS.png
 Proof of Hydra not caring about his buyer's information: https://cdn.discordapp.com/attachments/521768610029633549/814320810108911666/IMG_20210225_021949.jpg
+
+~ We all do a little trolling....
