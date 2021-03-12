@@ -1,0 +1,27 @@
+{
+    "name": "hydrabotwhitelist",
+    "version": "1.0.0",
+    "engines": {
+        "node": "15.x"
+    },
+    "description": "Whitelist bot for Hydra Hub.",
+    "main": "main/index.js",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "run": "node main/index.js",
+        "start": "node main/index.js"
+    },
+    "author": "DaDude#3044",
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "discord.js-commando": "github:discordjs/Commando",
+        "dotenv": "^8.2.0",
+        "module-alias": "^2.2.2",
+        "mongodb": "^3.6.4",
+        "@tinyhttp/app": "1.1.12"
+    },
+    "_moduleAliases": {
+        "@utils": "main/utilities",
+        "@endpoints": "main/endpoints"
+    }
+}
